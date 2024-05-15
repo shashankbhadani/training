@@ -1,0 +1,959 @@
+8:45 AM TO 5:45 PM
+
+SESSION1: 8:45 AM - 10:40 AM
+SB1 : 10:40 AM TO 11:00 AM
+SESSION2 : 11:00 AM TO 12:45 PM 
+
+LUNCH BREAK : 12:45 PM TO 1:45 PM
+
+LAB1 : 1:45 PM TP 3:30 PM 
+SB2 : 3:30 PM TO 3:50 PM 
+LAB2 : 3:50 PM TO 5:45 PM 
+
+Web Application
+		UI
+		Backend			Development
+		Database
+
+		Implementation		Operations
+		Maintainence
+		
+		
+
+
+
+	Computer Archtecture:
+
+	Input Unit
+	Output Unit
+	Storage Unit
+	Arthmetic Logic Unit
+	Control Unit
+	
+	CPU performance factors.
+			Clock speed
+	
+			Core:
+				dual core
+				Quad core
+
+			DataTypes:
+				Primtive: int float char double etc...
+				Non Primitve: String Arrays Class Collections etc...
+				
+				Files [read,write,append,delete etc... ] logs,json-server
+				or
+				Database
+
+			DMA:Direct Memory Access 
+
+			
+			React:3000 Angular:4200
+			Apache:8080
+			MySQL:3306
+
+			Paralell Computing:
+				GPU (Graphics Processing Unit) and ASICs(Application Specific Integrated Circuits)
+			Teththering Hardware Accelaration
+		
+			
+
+
+			Network
+			Node
+			Protocol
+			Topology
+			Service Provider
+			IP Address
+			DNS
+			Firewall
+
+			Computer Networks:
+
+			LAN:
+			WAN:
+			Cloud Networks:
+
+			Computer Network Architecture:
+				1. Client server Architecture
+				2. Peer to Per Arcitecture P2P Architecture
+
+
+			Network Topology: Bus,star,Mesh,Ring etc..
+
+
+			OSI Model: Open Systems Interconnection
+					It has 7 layer architecture
+
+					1. Physical Layer:
+							Bit synchronization
+							Bit rate control
+							Transmission mode: Simplex,haf-duplex and full-duplex.
+
+					2. Data Link Layer(DLL): node to node delivery of the message.
+							1. Logical Link Layer
+							2. Media Access Layer
+
+
+					3. Network Layer:
+							transmisstion of data from one host to aother host located in different network.
+							packet routing
+
+					4. Transport Layer:
+							It provides services to application layer and takes services from network layer.
+							Segments
+
+					5. Session Layer:
+							Session establishment,maintainance and termination
+
+					6. Presentation Layer:
+							Translation
+							Encryption/Decryption
+
+
+					7. Application Layer:
+					
+							Services(Mail,Directory,File transfer access managemnt etc...)
+
+
+				TCP/IP:
+					IP: Internet Protocol
+
+						IPV4
+						IPV6
+
+				Transport Layer:
+					TCP(Transmission Control Protocol)
+					UDP(User  datagram protocol)
+
+					Subnet:
+						Its a network inside a network
+						3 classes of IP Address:
+									A,B and C
+
+
+
+SDLC: Software Development Life Cycle
+
+	SDLC Phases:
+
+			1. Requirement Gathering
+
+			2. Analysis or Feasibilty Study
+	
+			3. Design
+
+			4. Coding[code + unit tests]
+
+			5. Testing <- STLC
+
+			6. Implementaion
+
+			7. Maintainence
+
+	
+				Staging Server: local server for testing application developed.
+				Production Server: live server (where we will not do develpoment)
+			
+
+			Service Based Company
+			Product Based Company
+
+
+			
+		Modern Development Methodologies
+
+			1. Test-Driven Development (TDD):
+						TDD is a technique in which automated Unit test are used to drive the design and 
+						free decoupling of dependencies.
+
+			Advantages:
+				-> Unit test provides contant feedback about the functions.
+				-> Quality of design increases which further helps in maintenance.
+				-> TDD have very short development lifecycle.
+				-> Less Debugging
+			
+
+			DisAdvantages:
+				-> slow process
+				-> Maintaining Test case while changes in Requirements
+
+
+			2. Behavior-Driven Development (BDD):
+
+				Its an approach in Automated Testing as its focused on the behavior of the system rather than
+				the implementation of the code.		
+				
+
+			Benefits:
+
+				-> Greater clarity on business goals and customer requirements.
+
+				-> Helps in Acceptance criteria before development.
+
+				-> Automated testing tools are encouraged ,reducing testing time and effort and enabling faster
+					detection and resolution of issues.
+
+				-> Integration with CI and CD process can automate the build,testing and deployment of software,
+					resulting in faster feedback loops and delivery of features.
+
+			DisAdvantages:
+
+				-> Time cinsuming to create and maintain extensive documentation,user stories,Acceptance criteria etc...
+
+				-> Incomplete or inaccurate requirements can lead to Insufficient test coverage and bugs.
+
+			3. Feature-Driven Development (FDD):
+					Its an Agile iterative and incremental model that focuses on Progressing the features of
+					the developing software.
+
+					The main objective of FDD is to provide timely updated and working software to the client.
+			
+					In FDD, reporting and progress tracking is necessary at all levels.
+
+				Benefits:
+
+					-> Easier Reporting at all levels making tracking much easier.
+					-> FDD provides continious success for larger size of teams and Projects.
+					-> Greater Accuracy in Cost estimation of the Project.
+
+				DisAdvantages:
+
+					-> Time consuming
+					-> Incomplete or inaccurate requirements can lead to Insufficient test coverage and bugs.
+					-> Not suitable for short development cycles or Projects with frequently changing requirements.
+
+
+
+			
+
+	Waterfall Model:
+			Advantages
+			Disadvantages
+			Applications
+	
+			
+	Spiral Model:
+			Advantages
+			Disadvantages
+			Applications
+
+	Agile Model:
+			Advantages
+			Disadvantages
+			Applications
+
+	V-Model:
+			Advantages
+			Disadvantages
+			Applications
+
+
+
+	-> DIfference between Waterfall Model and V-Model
+	-> DIfference between Spiral Model and Agile Model
+		
+	Modules to relate with SDLC Assignments:
+
+	1.  Users: Lavanya,Sitaram		 16. Vehicle- Nitish Kumar		31. Fitness App : Sri Vijiya
+	2.  Customers : Shweta			 17. Sports- Mushanam			32. Safety App:   Preeti
+	3.  Products: Abishek,Naman		 18. Tourism: Bhavya,Dolly
+	4.  Trains: 			 	 19. Players: 
+	5.  Orders: Shashank,Priya	 	 20. Company : Madeeha
+	6.  Events:  Krishna			 21. Employee: Avinash P,Girjesh,Animesh
+	7.  Transactions: Varshini,Nishanth	 22. Music: Rajan,Ramu
+	8.  Doctor : 				 23. Books : Akash,Tarun
+	9.  Patients: 			 	 24. Claims: 
+	10. Staffs: 				 25. Hotel : Prakhar
+	11. Skills: 				 26. Billing: Nithin
+	12. Students: Gayathri,Jhansi		 27. Email : Sujini,Avinash Yadav
+	13. Teachers: 				 28. Flipkart: Dharani
+	14. Departments: Chandra,Amit	         29. Passengers: Alok
+	15. Restaurants: Rekha,Sony		 30. Banking: Shanmukh,ManiSai
+						
+
+	
+
+	TDD:
+		1. write a test case or define test scenarios and save as a TC_001.xls
+		2. In infographic illustration refer the Test case name.
+		
+		
+	Agile Principles and Communication:
+
+		Agile Introduction and Values:
+					Its a software development mehodology that values flexibility,collaboration and customer satisfaction.
+
+		Agile Development is an Iterative and Incremental approach to software development the represents the importance of delivering
+		a working product quickly and frequently.
+
+		
+
+		Introduction to Agile values:
+
+		1. Individuals and Interactions over Processes and Tools.
+		2. Working Software over Comprehensive Documentation.
+		3. Customer Collaboration over Contract Negotiation.
+		4. Responding to Change over Following a Plan.
+
+		Individuals and interactions, Working solutions	Customer collaboration, Responding to change Agile principles 
+		(e.g., prioritizing customer needs, iterative development).
+
+		
+	 	01. Customer Satisfaction
+		02. Changing Requirement
+		03. Frequent Delivery
+		04. Promting Collabration
+		05. Motivated Individuals
+		06. Face to Face Communication
+		07. Maitain a constant pace
+		08. Measure Progress
+		09. Technical Excellance
+		10. Simplicity
+		11. Self Organised Teams
+		12. Continious improvements
+
+		
+		Agile Software development Cycle:
+		
+			1. Concept
+			2. Inception
+			3. Iteration/Construction
+			4. Release
+			5. Production
+			6. Retirement
+
+
+	Overview of Scrum framework:
+
+		Scrum is the type of Agile Framework.
+		Its framework within which poeple can address complex adaptive problem while productivity and creativity of delivering product
+		is at highest possible values.
+
+		Scrum uses Iterative process.
+
+		Features of Scrum :
+			1. Scrum is light weighted framework
+			2. Scrum emplasizes self-organisation
+			3. Scrum is simple to Understand
+			4. Scrum Framework help the team to work togeather.
+ 
+
+		Roles (Product Owner, Scrum Master, Development Team) and responsibilities.
+
+		Scrum artifacts (Product Backlog, Sprint Backlog, Increment).
+
+		Scrum ceremonies - Sprint Planning, Daily Standup, Sprint Review, Sprint Retrospective
+
+
+		Kanban and Lean:
+			Kanban is a popular Agile Software Development Methodology.
+		
+		Objective:
+				To reduce WIP(Work-In-Progress) or inventory between processes by ensuring the upstream process creates
+		parts as long as its downstream process needs it.
+
+
+		1. Understanding Kanban and Lean principles:
+		
+			1. Start with existing Process:
+			2. Agree to continue evolutionary and incremental changes.
+			3. Admire current roles,processes and responsibilties.
+			4. Leadership at all levels.
+
+		Lean:
+			Lean is a business methodology that promotes continious improvement and respect for people as a means of increasing value
+			 and productivty.
+
+			1. Define Value
+			2. Map value stream
+			3. Create flow
+			4. Establish PULL
+			5. Pursuit Perfection
+
+
+				
+		2.Visualizing work with Kanban boards
+
+		
+
+		3. Set up a Kanban board for a real-world scenario
+
+		4. Reducing waste in software development:
+
+		Lean culture: 
+				These are three types of waste that need to be eliminated or minimised in decision making process.
+		
+		   Muda:
+			refers to any activity  that does not add value.
+
+		   Mura:
+			refers to uneveness or inconsistency in the workflow.
+
+		   Muri:
+			refers to over burden or excessive strain on resources.
+
+		
+
+
+		Lab:
+
+			1. Explain Kanban and Lean principles.
+
+			2. In kanban dashboard,create TODO ,DOING and DONE tasks.
+				list 10 tasks each.
+		
+			3. Implement waste management by following Lean Culture.
+
+					
+	Agile Methodologies and Effective Communication
+
+		Agile Planning and Estimation(Scope,Cost and Efforts)
+			Challenges:
+
+				1. Uncertainity
+				2. Self Knowledge
+				3. Consistency
+			
+			Agile planning techniques (backlog grooming, story points).
+					Product Backlog:
+							Product Backlog is a Prioritized list of simplified requirements which is necessary to 
+							accompolish the Intended delivery of the product/feature.
+			
+					Its a key Input for planing
+
+			Plan and estimate a project using Agile methods.
+
+			Creating and prioritizing user stories.
+
+		Project Level:
+				Planning act
+
+		Daily Standup and Communication
+			Conducting effective Daily Standup meetings.
+			Common challenges and solutions in Daily Standup communication.
+
+		Sprint Review and Stakeholder Communication
+			The importance of Sprint Reviews in Agile.
+			Preparing for and conducting a Sprint Review.
+
+
+
+		Effective Communication in SDLC
+
+			Design and Development Communication
+				Collaborative communication during the design and development phases.
+				Cross-functional teams and their role in communication.
+
+			Testing and Reporting
+				Effective communication during testing phases.
+				Test-driven development (TDD) and its impact on communication.
+
+
+
+		Testing, Deployment, Retrospectives, and Conclusion
+
+			Integration and System Testing
+
+				Communication strategies during integration and system testing.
+				Test environments and data management.
+				Reporting and tracking defects.
+
+			Deployment and Release Communication
+
+				Effective communication strategies during deployment.
+				Deployment planning, rollback strategies, and contingency plans.
+				Post-deployment monitoring and communication.
+
+
+	Assignment 1: 
+		Agile Project Planning - 
+		Create a one-page project plan for a new software feature using Agile planning techniques. 
+		Include backlog items with estimated story points and a prioritized list of user stories.
+
+
+	Assignment 2: 
+		Daily Standup Simulation - Write a script for a Daily Standup meeting for a development team working 
+		on the software feature from Assignment 1. 
+		Address a common challenge and incorporate a solution into the communication flow.
+
+	
+	
+
+
+	Operation SYstem:
+	=================
+			1. Windows: 7 /8/10/11 .....
+			2. Linux:  Ubuntu,Fedora,Kali-Linux,RHEL etc....
+
+					root directory:                /
+					sub directories:   home       etc      bin  .........
+							   user   ....     ....
+			3. MAC: Macintosh
+-------------------------------------------------------------------------------------------------------
+			4. super user: root
+			5. logged in user: rps
+			6. home directory: /home/rps
+			7. cd /etc
+			8. pwd: list current working directory
+			9. cd ~
+			10. whoami : list current user
+			11. lsb_release -a : list OS details
+
+			12. ls -l
+				 user owner others
+				drwxrwxrwx     2       root root     4096   Apr 30 16:62    boot
+		     d or - or l permission no of dir  user user filesize      date	file/foldername
+
+			13. cd ..  : allows to navigate one level up to the current directory
+			
+
+		Introduction to Linux:
+
+			Linux History and Philosophy
+				Origins of Linux, GNU/Linux
+				Open Source Movement
+
+			Popular Linux Distributions
+				Overview of Ubuntu, Fedora, CentOS
+
+			Understanding Desktop Environments
+				GNOME, KDE, XFCE
+
+		
+			
+
+
+			Command Line Basics:
+
+				Terminal Fundamentals
+					Accessing the Terminal
+					Basic Navigation Commands
+
+				Directory Structures
+					Home, Root, Bin, and Other Directories
+
+					Path:
+						A path is a unique location to a file or folder in a file system of an OS.
+
+						A path to a file is a combination of / and alpha-numeric characters.
+
+					Absolute vs Relative Paths:
+
+						Absolute path is defined as the specifying the location of a file or directory from the root directory.
+
+					1. start at the root directory(/) and navigates accordingly.
+
+					  step1: cd ~
+					  step2: mkdir samples <- created a new folder or directory
+					  step3: cd samples
+					  step4: vi info.txt
+							press i <- interactive mode is enabled 
+							welcome to vi editor
+							press esc button
+							type :wq <- saves and quit from vi
+							      q! <- dont save and quit
+								
+					Relative Path:
+							Its is defined as the path related to the present working directory(pwd).
+
+							samples
+								info.txt
+							demo
+								data.txt
+
+							navigating to samples from demo using : cd ../samples
+
+					step1: mkdir demo
+					step2: cd demo
+					steo3: cat > data.txt
+						welcome to my new text file
+					step4: ctrl + c
+ 					step5: ls -l
+					step6: data.txt is being displayed
+					step7: cat data.txt
+					step8: displays file content
+					
+
+				File Management Commands
+					Creating, Listing, Deleting Files and Directories
+
+					step1: tar -zcvf demo_backup_10-05-2024.tar.gz demo/
+					step2: rm data.txt 
+					step3: rmdir data/
+					step4: tar -zxvf demo_backup_10-05-2024.tar.gz demo/
+					step5: rm -rf demo/
+
+			Lab Assignments:
+				
+					1. Access vm successfully and open a terminal.
+
+					2. find the current user. 
+
+					3. navigate to root directory from home directory using terminal.
+
+					4. Explain File system heirarchy in Linux OS.
+
+					5. list all the contents of a directory.
+
+					6. perform a directory count.
+
+					7. explain the output of ls -l command.
+
+					8. Difference between ls -l and ls -la command.
+
+					9. create a directory products in home directory,
+						navigate using using cd command and create a file products.txt.
+
+					10.create a directory orders in home directory,
+						navigate using using cd command and create a file orders.txt.
+
+					11. What is Path? Define Absolute Path and Relative Path.
+
+					12. List the differences between Absolute Path and Relative Path.
+
+					13. Navigate between products and orders with cd command using relative path reference.
+
+
+			Working with Files and Text Editors
+				File Operations
+					Copying, Moving, Removing Files
+						step1: cp source_file_loc destination_loc
+						
+					Searching Within Files with grep
+
+					Syntax:
+						grep [options] pattern [files]
+
+						grep -i "unix" samples/info.txt  : i : case insensitive																	   c : line count matching with pattern
+										   w : highlighting matched pattern in ouput
+										   o : dipslay matched pattern as output
+										   n : display line number of pattern matched 
+			
+
+				Introduction to Nano and Vim
+					Basic Operations: Opening, Editing, Saving Files
+					Vim Modes and Navigation
+
+			Basic File System Structure and Permissions
+
+				Exploring Linux File System Hierarchy
+					Standard Directories and Their Roles
+
+				File Permissions and Ownership
+					Reading and Modifying File Permissions
+					
+					user owner other
+					rwx   rwx  rwx
+					111   101  001          777
+
+					Changing File Ownership
+						sudo chown root:root help.txt
+					        
+			Remote System Access
+				Accessing remote system using SSH and Telnet access
+				Copy Files from/to remote System
+
+				amazon ec2 instances: IP : 65.78.65.45
+						password:  .ssh or .pem
+
+				create an ec2 instance and access it from FileZilla or Putty or Moba-Xterm
+
+Source Code Management with Git
+Version Control with Git
+Git Introduction
+Why Version Control?
+Git Installation and Configuration
+Git Basics
+Initializing a Repository (git init)
+Staging and Committing Changes (git add, git commit)
+Git Operations and Workflow
+Managing Changes
+Viewing Commit History (git log)
+Undoing Changes (git revert, git reset)
+Branching in Git
+Creating and Switching Branches (git branch, git checkout)
+Basic Merging Techniques
+Branching and Merging
+Advanced Branching Strategies
+Feature Branching, Hotfix Branches
+Complex Merging Techniques
+Resolving Complex Merge Conflicts
+Rebase vs Merge
+Collaborative Development with Git
+Collaborative Workflows in Git
+Forking and Cloning Repositories
+Managing Collaborative Changes
+Working with Branches Remotely
+Pushing and Pulling Branches
+Remote Branch Management
+Code Review and Collaboration Practices
+Utilizing Pull Requests
+Creating and Managing Pull Requests
+Code Review Process
+
+
+	Shell Scripting with Bash
+		Bash Scripting Basics
+			Shell Scripting Basics
+				Creating and Running Shell Scripts
+				Script File Structure
+				Making Scripts Executable
+				Basic Shell Script Examples
+
+			Variables and Data Types
+				Environment Variables
+				Custom Variables
+				Data Types and Declaration
+				variables syntax:
+						var_name=value
+
+					ex:     NUM1=20
+				Working with Strings and Numbers
+
+				expr: command line utility used for evaluating mathematical expressions.
+
+
+		Control Structures and Functions
+			Control Structures
+				Conditional Statements (if, then, else, elif)
+
+				Syntax:
+					if[ expression ]
+					then
+					   statement
+					fi
+
+				Loop Structures (for, while, until)
+
+				Case Statements
+				Functions in Bash
+				Defining and Calling Functions
+				Function Parameters and Return Values
+				Scope of Variables in Functions
+
+
+Advanced Scripting Techniques
+Advanced Bash Features
+Arrays and Associative Arrays
+Reading and Writing Files
+Redirecting Input and Output
+Using Pipes and Filters
+Error Handling
+Exit Status of Commands
+Trap Statements for Error Detection
+Debugging Bash Scripts
+
+
+Text Processing Tools
+Essential Text Processing Commands
+grep, sed, awk
+cut, sort, uniq, tr
+Regular Expressions Basics
+Using Text Processing Tools in Scripts
+Integrating grep, sed, awk in Shell Scripts
+Practical Examples of Text Processing
+
+
+
+		RDBMS Fundamentals:
+
+			Introduction to RDBMS
+					Relational Database Management System
+
+			Definition and Concepts of RDBMS
+					A Relational Database is a database system that stores and retrieves data in tabular format
+			organised in the form of rows and cols.
+
+
+			Importance of RDBMS in Modern Computing:
+
+				RDBMS maintains data integrity by simulating the following features:
+
+			1. Entity Integrity:
+					No two records of the database table can be completely duplicate.
+
+			2. Referential Integrity:
+					Only the rows of those tables can be deleted which are not used by other tables.
+
+			3. User defined Integrity:
+					Rules defined  by the users based on confidentiality and access.
+
+			4. Domain Integrity:
+					The columns of the database tables are enclosed within some structured limits,based on default values,
+					type of data or ranges.
+
+			Characteristics of RDBMS:
+
+				-> Data must be stored in tabular form in DB,it should be oragnised in the form of rows/cols.
+
+				-> Each row of table is called record/tuple.
+
+				-> Each column of the Table is called an attribute/ field.
+
+				-> No two records of the DB table can be same.
+
+				-> Tables are related to each other with the help for foreign keys.
+
+				-> Database tables also allows NULL values,that is if the values of any of the element of the table
+					are not filled or missing,It becomes a NULL value,which is not equal to zero.
+
+
+
+			Database Design
+				ER Models:
+					 Entities, Relationships, Attributes, and Cardinality
+
+				Normal Forms and Normalization Process:
+					Process of minimizing redundancy from a relation or set of relations.
+
+					Normal forms are used to eliminate or reduce redundacy in database tables
+
+					There are several levels of normalization:
+					
+					1. First Normal Form (1NF):
+							Each table cell should contain only a single value and each column should have unique name.
+
+					2. Second Normal Forn(2NF):							
+							It elimiates redundant data by requiring that each non key attribute be dependent on the 
+							primary key.
+
+					3. Third Normal Form(3NF):
+							It builds on 2NF by requiring that all non key attributes are independent of each other.
+
+					4. Fourth Normal Form(4NF):
+							table doesnt conatin any multi valued dependencies.
+
+					5. Fifth Normal Form(5NF):
+							decomposing a table into smaller tables to remove data redundancy and improve data integrity.
+
+
+				Logical and Physical Database Design
+
+					Entity  : Table
+					Relationship :Foreign Key
+					Attribute: Column
+					Unique Identifer : Primary key	
+				
+
+
+			RDBMS Architectures
+				Single-user vs Multi-user Systems
+				Centralized vs Distributed Databases
+				Client-Server Architecture
+
+			Data Integrity and Transactions
+				ACID Properties					
+				Locking and Concurrency Control
+				Isolation Levels
+
+			Key RDBMS Components
+				Tables, Fields, Rows, and Columns
+				Primary Keys, Foreign Keys, and Indexes
+				Constraints: NOT NULL, UNIQUE, CHECK, DEFAULT
+
+			SQL Language
+				SQL Syntax and Statement Structure
+					SQL Keywords and Identifiers
+					Statement Clauses and Predicates
+					Comments and Formatting Best Practices
+
+				DDL - Data Definition Language
+					Database and Table Operations
+					CREATE, ALTER, DROP for Databases and Tables
+					CREATE INDEX and DROP INDEX
+					Data Types and Table Storage Engines
+
+				DCL - Data Control Language
+					User and Permission Management
+					CREATE USER, DROP USER
+					GRANT, REVOKE Permissions
+					Roles and Privileges
+
+				DML - Data Manipulation Language
+					Data Management
+					INSERT, UPDATE, DELETE
+					BULK INSERT and Data Import/Export Techniques
+
+				DQL - Data Query Language
+					Basic Data Retrieval
+						SELECT Statements
+						WHERE Clauses and Filtering Data
+						ORDER BY, GROUP BY, and HAVING Clauses
+
+					Advanced Data Retrieval
+						JOIN Operations: INNER, LEFT, RIGHT, FULL, CROSS
+						Subqueries and Correlated Subqueries
+						UNION, INTERSECT, and EXCEPT Clauses
+
+					Functions and Expressions
+						Scalar Functions: Numeric, String, Date
+						Aggregate Functions: COUNT, AVG, SUM, MIN, MAX
+						CASE Expressions and Conditional Logic
+
+
+			Commands List:
+			=============
+				show databases;
+				create database sample_db;
+				use sample_db;
+				show tables;
+				
+				users:
+					id    email         password
+					1  alex@gmail.com    123456
+
+				create table users(id int,email varchar(50),password varchar(50));
+				desc users;
+
+				Create Query:
+				insert into users(id,email,password) values(1,'alex@gmail.com','123456'));
+
+				Read Query:
+				select * from users;
+
+
+				select * from users where id = 1;
+
+				update users
+				set password = "888888"
+				where id = 3;
+
+				delete from users where id = 3; 
+				
+				
+
+				
+				ALTER TABLE users MODIFY id int PRIMARY KEY AUTO_INCREMENT;
+
+
+
+				JOINS:
+				------
+
+					Customer :  Table1
+					Products :  Table2
+
+					inner join : matching records of Table1 and Table2 
+					
+					left join  : all records of Table1 and matching records of Table2
+
+					right join : matching records of Table1 and all records of Table2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
